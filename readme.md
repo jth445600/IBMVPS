@@ -106,7 +106,7 @@ fetch(request)
 ### 5. 找回Vmess链接  
 
 
-wget --no-check-certificate -O vmess.sh https://raw.githubusercontent.com/bigfangfang/IBMVPS/master/vmess.sh && chmod +x vmess.sh  && ./vmess.sh
+wget --no-check-certificate -O vmess.sh https://raw.githubusercontent.com/jth445600/IBMVPS/master/vmess.sh && chmod +x vmess.sh  && ./vmess.sh
 
 
 =============================================================  
